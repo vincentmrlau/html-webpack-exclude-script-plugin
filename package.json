@@ -1,0 +1,11 @@
+{
+  "name": "html-webpack-exclude-script-plugin",
+  "version": "0.0.1",
+  "description": "webpack plugin for exclude scripts in html file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
